@@ -23,6 +23,9 @@ The tutorial to be followed is [TeachOpenCADD](https://projects.volkamerlab.org/
 The used training set differs from the one used in the tutorial and is provided by the [DSF Course](https://cloud-new.gdb.tools/index.php/s/ZfZM7itQf3rm6Sw).
 
 The Tutorial was run and documented in a [Jupyter Notebook](Tutorial.ipynb)
+
+####**Questions regarding the Tutorial:**
+- **What is in the training set, how big is it?**  The training set consists of approximately 125,000 data points from the kinase dataset, which represents 70% of the total data.
 ### 3. Access Ubelix HPC Cluster
 Gain access to the Ubelix HPC cluster by following the [documentation](https://hpc-unibe-ch.github.io/).
 

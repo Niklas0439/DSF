@@ -27,8 +27,8 @@ The used training set differs from the one used in the tutorial and is provided 
 Gain access to the Ubelix HPC cluster by following the [documentation](https://hpc-unibe-ch.github.io/).
 
 
-## 4. Run Training on Ubelix
+### 4. Run Training on Ubelix
 Modify the code from the tutorial to run the relevant part (training) on the Ubelix HPC cluster. 
 
-## 5. Submit Training Job on Ubelix
+### 5. Submit Training Job on Ubelix
 Run the training step on Ubelix. Provide the submission script and the code you run there.

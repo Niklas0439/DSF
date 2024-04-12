@@ -24,6 +24,8 @@ The used training set differs from the one used in the tutorial and is provided 
 
 The Tutorial was run and documented in a [Jupyter Notebook](Tutorial.ipynb)
 
+The general Questions are answered [here](QUESTIONS.md)
+
 #### **Questions regarding the Tutorial:**
 
 - **What is in the training set, how big is it?** The training set consists of approximately 125,000 data points from the kinase dataset, which represents 70% of the total data.

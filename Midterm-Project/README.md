@@ -48,9 +48,9 @@ To access the Cluster SSH is used. The used commands can be found [here](Ubelix.
 
 - **How do you gain access?** To gain access to Ubelix, one needs to have a Campus Account and activate it by sending a request through the provided [link](https://serviceportal.unibe.ch/hpc). Once the account is activated, users can establish an SSH connection to one of the submit nodes from within the university network.
 
--**Who can have access?** Access to Ubelix is available to anyone with a Campus Account, including students, staff, and external researchers collaborating with the University of Bern. External researchers can apply for a Campus Account to gain access to the cluster.
+- **Who can have access?** Access to Ubelix is available to anyone with a Campus Account, including students, staff, and external researchers collaborating with the University of Bern. External researchers can apply for a Campus Account to gain access to the cluster.
 
--**What resources are available there?** Ubelix provides both storage and computational resources for users. Additionally, it offers the capability to create workspaces to facilitate collaboration within research projects, enhancing the productivity and efficiency of collaborative efforts.
+- **What resources are available there?** Ubelix provides both storage and computational resources for users. Additionally, it offers the capability to create workspaces to facilitate collaboration within research projects, enhancing the productivity and efficiency of collaborative efforts.
 
 - **How do you submit a job?** Jobs can be submitted to Ubelix based on the [Slurm framework](https://slurm.schedmd.com/overview.html). The used code can be found [here](Ubelix/).
 

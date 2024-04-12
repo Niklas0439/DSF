@@ -22,7 +22,7 @@ The tutorial to be followed is [TeachOpenCADD](https://projects.volkamerlab.org/
 
 The used training set differs from the one used in the tutorial and is provided by the [DSF Course](https://cloud-new.gdb.tools/index.php/s/ZfZM7itQf3rm6Sw).
 
-
+The Tutorial was run and documented in a [Jupyter Notebook](Tutorial.ipynb)
 ### 3. Access Ubelix HPC Cluster
 Gain access to the Ubelix HPC cluster by following the [documentation](https://hpc-unibe-ch.github.io/).
 

@@ -40,7 +40,7 @@ The Tutorial was run and documented in a [Jupyter Notebook](Tutorial.ipynb)
 ### 3. Access Ubelix HPC Cluster
 Gain access to the Ubelix HPC cluster by following the [documentation](https://hpc-unibe-ch.github.io/).
 
-To access the Cluster SSH is used. The used commands can be found [here](Ubelix.ipynb)
+To access the Cluster SSH is used. The used commands can be found [here](/Ubelix/Documentation.ipynb)
 
 #### **Questions regarding Ubelix:**
 
@@ -52,7 +52,7 @@ To access the Cluster SSH is used. The used commands can be found [here](Ubelix.
 
 - **What resources are available there?** Ubelix provides both storage and computational resources for users. Additionally, it offers the capability to create workspaces to facilitate collaboration within research projects, enhancing the productivity and efficiency of collaborative efforts.
 
-- **How do you submit a job?** Jobs can be submitted to Ubelix based on the [Slurm framework](https://slurm.schedmd.com/overview.html). The used code can be found [here](Ubelix/).
+- **How do you submit a job?** Jobs can be submitted to Ubelix based on the [Slurm framework](https://slurm.schedmd.com/overview.html). The used code can be found [here](/Ubelix/).
 
 
 ### 4. Run Training on Ubelix

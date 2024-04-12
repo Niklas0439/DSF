@@ -15,3 +15,20 @@ This project aims to develop a machine learning model to predict the activity of
 4. **Build a Kinase Activity Prediction Model**: Utilize publicly available data to train and validate a machine learning model capable of predicting the activity of kinase enzymes based on their structural and chemical properties.
 
 ## Getting Started
+
+### 1. Read and run the Tutorial
+
+The tutorial to be followed is [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/talktorials/T022_ligand_based_screening_neural_network.html).
+
+The used training set differs from the one used in the tutorial and is provided by the [DSF Course](https://cloud-new.gdb.tools/index.php/s/ZfZM7itQf3rm6Sw).
+
+
+### 3. Access Ubelix HPC Cluster
+Gain access to the Ubelix HPC cluster by following the [documentation](https://hpc-unibe-ch.github.io/).
+
+
+## 4. Run Training on Ubelix
+Modify the code from the tutorial to run the relevant part (training) on the Ubelix HPC cluster. 
+
+## 5. Submit Training Job on Ubelix
+Run the training step on Ubelix. Provide the submission script and the code you run there.
